@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sisEstoque</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>sistema-estoque</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>sistema-estoque</name>
+	<description>API Restful para Gerenciamento de Estoque</description>
 	<url/>
 	<licenses>
 		<license/>
